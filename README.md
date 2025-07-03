@@ -81,8 +81,3 @@ Here you'll find 21+ websites and 5+ custom software systems I built for clients
 - 📧 Email: [nravikant123@gmail.com](mailto:nravikant123@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/ravikant-upadhyay](https://www.linkedin.com/in/ravikant-upadhyay)  
 - 🌐 Portfolio: [radhakrishnawebsolution.in](https://radhakrishnawebsolution.in)
-
----
-
-### 📊 GitHub Stats (Optional)
-![Ravikant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikant-1811&show_icons=true&theme=tokyonight)
