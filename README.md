@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Ravikant Upadhyay
 
-I'm a passionate **Software Developer** and **Freelancer** from India 🇮🇳 with hands-on experience in building websites, CRM/DMS systems, mobile apps, and IoT-based smart solutions.
-
 I specialize in full-stack development using **PHP, MySQL, WordPress, JavaScript, HTML/CSS**, and have strong foundations in **AI & IoT** using **Raspberry Pi, Arduino, ESP32**, and **AI model integrations**.
 
 ---
 
-## 🌐 My Portfolio
-> 🔗 **View My Work**: [radhakrishnawebsolution.in](https://radhakrishnawebsolution.in)
+## 👨‍💻 Professional Experience
 
-Here you'll find 21+ websites and 5+ custom software systems I built for clients across healthcare, real estate, automobile, education, and more.
+**Software Developer – Global Medical Devices (Jun 2024 – Nov 2024)**  
+- Developed [gmdindia.com](https://gmdindia.com), a custom CRM, and a service tracking app  
+- Delivered mobile support for field technicians  
+
+**Software Developer – Corpbiz Experts Solution (Sep 2023 – Apr 2024)**  
+- Developed [paintserum.com](https://paintserum.com) and Dealer Management System  
+- Integrated real-time client tracking and automation  
+
+**Intern – Webbex Innovative India Pvt. Ltd. (Jun 2020 – Sep 2020)**  
+- Built responsive pages in HTML, CSS, JavaScript, and PHP  
+- API integration and performance debugging  
 
 ---
 
@@ -26,21 +33,7 @@ Here you'll find 21+ websites and 5+ custom software systems I built for clients
 
 🧾 **More live work** available at [radhakrishnawebsolution.in](https://radhakrishnawebsolution.in)
 
----
-
-## 👨‍💻 Professional Experience
-
-**Software Developer – Global Medical Devices (2024)**  
-- Developed [gmdindia.com](https://gmdindia.com), a custom CRM, and a service tracking app  
-- Delivered mobile support for field technicians  
-
-**Software Developer – Corpbiz Experts Solution (2023-24)**  
-- Developed [paintserum.com](https://paintserum.com) and Dealer Management System  
-- Integrated real-time client tracking and automation  
-
-**Intern – Webbex Innovative India Pvt. Ltd. (2020)**  
-- Built responsive pages in HTML, CSS, JavaScript, and PHP  
-- API integration and performance debugging  
+Here you'll find 21+ websites and 5+ custom software systems I built for clients across healthcare, real estate, automobile, education, and more.
 
 ---
 
