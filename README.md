@@ -29,7 +29,7 @@ I specialize in full-stack development using **PHP, MySQL, WordPress, JavaScript
 | [Paint Serum](https://paintserum.com) | Product website with Dealer Management System | WordPress, PHP |
 | [Dr. Sangule Dental](https://drsanguledentalcare.com) | Dental clinic website | WordPress |
 | [Shri Aarambh Buildtech](https://shriaarambhbuildtech.com) | Real estate website | HTML, CSS, PHP |
-| [Goodness Events](https://goodnessevents.in) | Events website | WordPress |
+| [Goodness Events](https://goodnessevents.in) | Events website | HTML, CSS, PHP |
 
 🧾 **More live work** available at [radhakrishnawebsolution.in](https://radhakrishnawebsolution.in)
 
