@@ -1,14 +1,16 @@
-## Hi, I'm Ravikant 👋
-💻 WordPress & PHP Developer  
-🌍 Open-source Contributor  
-🚀 Actively contributing to WordPress ecosystem
+Hi, I’m Ravikant 👋  
+Software Developer | PHP & WordPress  
 
-### 🛠 Tech Stack
-- PHP, WordPress, MySQL
-- JavaScript, HTML, CSS
-- Git, Linux, Cloudflare
+I build scalable web applications, custom CRMs/DMS platforms, and performance-focused WordPress solutions.  
+Experienced in delivering production-ready systems for businesses, from backend logic to deployment.
 
-### 🌱 Current Focus
-- WordPress Core
-- WooCommerce
-- Performance & Security
+🛠 Tech Stack  
+PHP, WordPress, MySQL, JavaScript, HTML, CSS  
+Git, Linux, Cloudflare, Raspberry Pi  
+
+🌱 Current Focus  
+• WordPress Core & WooCommerce  
+• Backend performance & security  
+• Open-source contributions  
+
+🚀 I enjoy building clean, reliable systems and contributing to real-world projects.
