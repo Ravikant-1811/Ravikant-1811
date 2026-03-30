@@ -59,7 +59,7 @@ I build practical, production-ready web systems that solve real business problem
 
 ## GitHub Highlights
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravikant-1811&theme=transparent&hide_border=true" alt="Ravikant GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ravikant-1811&starting_year=2025&theme=transparent&hide_border=true" alt="Ravikant GitHub streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravikant-1811&theme=github" alt="GitHub stats summary" />
