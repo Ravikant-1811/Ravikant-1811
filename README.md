@@ -14,10 +14,18 @@
 </p>
 
 <p align="center">
-  <a href="https://ravikant-1811.vercel.app/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/ravikant-upadhyay">LinkedIn</a> |
-  <a href="https://x.com/Mr_RK_1811">X</a> |
-  <a href="https://radhakrishnawebsolution.in">Website</a>
+  <a href="https://ravikant-1811.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ravikant-upadhyay">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Mr_RK_1811">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://radhakrishnawebsolution.in">
+    <img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ## About Me
