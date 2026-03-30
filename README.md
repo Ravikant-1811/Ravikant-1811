@@ -51,14 +51,14 @@ I build practical, production-ready web systems that solve real business problem
 
 ## GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravikant-1811&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ravikant GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Ravikant-1811&theme=transparent&hide_border=true" alt="Ravikant GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikant-1811&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravikant-1811&theme=github" alt="GitHub stats summary" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravikant-1811&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravikant-1811&theme=github" alt="Top languages overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravikant-1811&theme=github" alt="Top languages by commits" />
 </p>
 
 ## Current Focus
