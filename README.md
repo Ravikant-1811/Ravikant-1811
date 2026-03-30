@@ -1,34 +1,75 @@
-<h1 align="center">Ravikant Upadhyay</h1>
-<p align="center"><strong>Software Developer | PHP, WordPress & Full-Stack Systems</strong></p>
-<p align="center">Building production-ready platforms that are scalable, secure, and business-focused.</p>
+<h1 align="center">Ravikant Kuldeep Upadhyay</h1>
+<p align="center"><strong>Full-Stack Developer | PHP, WordPress, CRM & Automation Systems</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-Core%20%26%20WooCommerce-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-Performance%20%26%20Security-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-Edge%20Deployments-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <a href="https://github.com/Ravikant-1811">
+    <img src="https://komarev.com/ghpvc/?username=Ravikant-1811&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/Ravikant-1811?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ravikant-1811?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+  </a>
+  <a href="https://github.com/Ravikant-1811?tab=stars">
+    <img src="https://img.shields.io/badge/Open%20Source-Active-2ea44f?style=for-the-badge&logo=github" alt="open source active" />
+  </a>
 </p>
 
-## Professional Summary
-Results-driven Software Developer with hands-on experience delivering scalable web applications, custom CRM/DMS platforms, and high-performance WordPress solutions.  
-I have built and deployed production systems across recruitment, healthcare, manufacturing, and service industries, handling architecture, backend logic, integrations, optimization, and infrastructure.
+<p align="center">
+  <a href="https://ravikant-1811.vercel.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/ravikant-upadhyay">LinkedIn</a> |
+  <a href="https://x.com/Mr_RK_1811">X</a> |
+  <a href="https://radhakrishnawebsolution.in">Website</a>
+</p>
 
-## Core Expertise
-- Custom web application development with PHP and MySQL
-- WordPress theme/plugin development and WooCommerce customization
-- CRM/DMS architecture for internal business operations
-- API integrations, workflow automation, and process optimization
-- Performance tuning, caching strategy, and security hardening
-- Linux-based deployment and self-hosted infrastructure management
+## About Me
+I build practical, production-ready web systems that solve real business problems.
+
+- Building scalable PHP applications, internal CRM/DMS platforms, and automation-first workflows
+- Specializing in WordPress, WooCommerce customization, and performance optimization
+- Experienced with deployment, server hardening, and Linux-based infrastructure
+- Focused on clean backend architecture, reliability, and long-term maintainability
+
+## Tech Stack
+### Backend and Web
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+### Systems and DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
+
+## GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravikant-1811&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ravikant GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Ravikant-1811&theme=transparent&hide_border=true" alt="Ravikant GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikant-1811&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravikant-1811&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
 
 ## Current Focus
-- WordPress core-level and WooCommerce development
-- Backend scalability, security, and performance engineering
-- Open-source contribution and practical system design
+- WordPress core and WooCommerce customization
+- Performance tuning, scalability, and security for PHP platforms
+- API integrations and automation for business workflows
+- Practical system design that is simple to run and maintain
 
-## Value I Bring
-I turn complex business requirements into clean, reliable, and efficient systems that teams can use confidently in production.
+## Contact
+- LinkedIn: [linkedin.com/in/ravikant-upadhyay](https://www.linkedin.com/in/ravikant-upadhyay)
+- Portfolio: [ravikant-1811.vercel.app](https://ravikant-1811.vercel.app/)
+- GitHub: [github.com/Ravikant-1811](https://github.com/Ravikant-1811)
+
+<p align="center"><strong>Coffee + Code. Built for production.</strong></p>
