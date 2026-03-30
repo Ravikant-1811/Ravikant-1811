@@ -90,8 +90,16 @@ I build practical, production-ready web systems that solve real business problem
 - Practical system design that is simple to run and maintain
 
 ## Contact
-- LinkedIn: [linkedin.com/in/ravikant-upadhyay](https://www.linkedin.com/in/ravikant-upadhyay)
-- Portfolio: [ravikant-1811.vercel.app](https://ravikant-1811.vercel.app/)
-- GitHub: [github.com/Ravikant-1811](https://github.com/Ravikant-1811)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravikant-upadhyay">
+    <img src="https://img.shields.io/badge/LinkedIn-Ravikant%20Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ravikant-1811.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Ravikant-1811">
+    <img src="https://img.shields.io/badge/GitHub-Ravikant--1811-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center"><strong>Coffee + Code. Built for production.</strong></p>
