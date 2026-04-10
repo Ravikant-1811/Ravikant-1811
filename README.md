@@ -68,6 +68,8 @@ I build practical, production-ready web systems that solve real business problem
   <img src="https://img.shields.io/badge/Self--Hosted%20Servers-1F2937?style=for-the-badge&logoColor=white" alt="Self Hosted Servers" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+  <img src="https://img.shields.io/badge/UptimeRobot-5CD8A5?style=for-the-badge&logo=uptimerobot&logoColor=0B1E2D" alt="UptimeRobot" />
 </p>
 
 ## GitHub Highlights
