@@ -74,15 +74,15 @@ I build practical, production-ready web systems that solve real business problem
 
 ## GitHub Highlights
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravikant-1811&theme=github" alt="Ravikant GitHub contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravikant-1811&theme=github&v=20260828" alt="Ravikant GitHub contribution summary" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravikant-1811&theme=github" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravikant-1811&theme=github&utcOffset=5.5" alt="Productive time chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravikant-1811&theme=github&v=20260828" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravikant-1811&theme=github&utcOffset=5.5&v=20260828" alt="Productive time chart" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravikant-1811&theme=github" alt="Top languages overview" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravikant-1811&theme=github" alt="Top languages by commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravikant-1811&theme=github&v=20260828" alt="Top languages overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravikant-1811&theme=github&v=20260828" alt="Top languages by commits" />
 </p>
 
 ## Current Focus
