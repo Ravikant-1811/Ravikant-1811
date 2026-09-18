@@ -107,23 +107,19 @@ ravikant = {
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravikant-1811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ravikant-1811&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ravikant-1811&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikant-1811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravikant-1811&theme=github&utcOffset=5.5" />
 </p>
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Ravikant-1811&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravikant-1811&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
-<!-- Snake - needs workflow, shows after first run -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ravikant-1811/Ravikant-1811/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<!-- Snake: generated daily by .github/workflows/snake.yml to the `output` branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravikant-1811/Ravikant-1811/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravikant-1811/Ravikant-1811/output/github-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Ravikant-1811/Ravikant-1811/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -131,7 +127,7 @@ ravikant = {
 
 `Pair Extraordinaire` · `Pull Shark x2 Bronze` · `Quickdraw` · `YOLO` → next targets: `Starstruck` `Galaxy Brain` `Open Sourcerer`
 
-Want the full hunt guide? See `ACHIEVEMENTS.md` in this repo (coming next).
+Want the full hunt guide? See [ACHIEVEMENTS.md](./ACHIEVEMENTS.md).
 
 ---
 
