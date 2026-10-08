@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">04 - delivery route</title><desc id="desc">Ravikant's five-stage software delivery route.</desc>
+  <style>
+    :root{--ink:#111820;--muted:#65707b;--rule:#c8c2b8;--accent:#ff4d2e;--signal:#4d7c0f;--panel:#f3efe7}
+    @media(prefers-color-scheme:dark){:root{--ink:#f4f1e9;--muted:#9ba4af;--rule:#414a55;--accent:#ff694d;--signal:#b6ff36;--panel:#111820}}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace}.serif{font-family:Georgia,"Times New Roman",serif}.draw{stroke-dasharray:900;stroke-dashoffset:0}.node{opacity:1}.n2{animation-delay:.15s}.n3{animation-delay:.3s}.n4{animation-delay:.45s}.n5{animation-delay:.6s}
+    @keyframes draw{to{stroke-dashoffset:0}}@keyframes show{to{opacity:1}}@media(prefers-reduced-motion:reduce){.draw,.node{animation:none;opacity:1;stroke-dashoffset:0}}
+  </style>
+  <g class="mono">
+    <text x="48" y="58" font-size="58" font-weight="700" fill="var(--accent)">04</text><text x="155" y="47" font-size="13" letter-spacing="4" fill="var(--ink)">THE DELIVERY ROUTE</text>
+    <line x1="155" y1="61" x2="952" y2="61" stroke="var(--rule)"/><text x="952" y="47" font-size="10" letter-spacing="2" text-anchor="end" fill="var(--muted)">~/04-route</text>
+    <line class="draw" x1="92" y1="172" x2="908" y2="172" stroke="var(--rule)" stroke-width="2"/>
+    <g class="node" transform="translate(92 172)"><circle r="14" fill="var(--accent)"/><text y="5" font-size="12" text-anchor="middle" fill="#fff">01</text><text class="serif" y="-42" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink)">Discover</text><text y="43" font-size="10" text-anchor="middle" fill="var(--muted)">WORKFLOW</text><text y="59" font-size="10" text-anchor="middle" fill="var(--muted)">CONSTRAINTS</text></g>
+    <g class="node n2" transform="translate(296 172)"><circle r="14" fill="var(--panel)" stroke="var(--ink)"/><text y="5" font-size="12" text-anchor="middle" fill="var(--ink)">02</text><text class="serif" y="-42" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink)">Design</text><text y="43" font-size="10" text-anchor="middle" fill="var(--muted)">SYSTEM</text><text y="59" font-size="10" text-anchor="middle" fill="var(--muted)">DATA MODEL</text></g>
+    <g class="node n3" transform="translate(500 172)"><circle r="14" fill="var(--panel)" stroke="var(--ink)"/><text y="5" font-size="12" text-anchor="middle" fill="var(--ink)">03</text><text class="serif" y="-42" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink)">Build</text><text y="43" font-size="10" text-anchor="middle" fill="var(--muted)">INTERFACES</text><text y="59" font-size="10" text-anchor="middle" fill="var(--muted)">AUTOMATION</text></g>
+    <g class="node n4" transform="translate(704 172)"><circle r="14" fill="var(--panel)" stroke="var(--ink)"/><text y="5" font-size="12" text-anchor="middle" fill="var(--ink)">04</text><text class="serif" y="-42" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink)">Ship</text><text y="43" font-size="10" text-anchor="middle" fill="var(--muted)">DEPLOYMENT</text><text y="59" font-size="10" text-anchor="middle" fill="var(--muted)">HANDOFF</text></g>
+    <g class="node n5" transform="translate(908 172)"><circle r="14" fill="var(--signal)"/><text y="5" font-size="12" text-anchor="middle" fill="#111820">05</text><text class="serif" y="-42" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink)">Operate</text><text y="43" font-size="10" text-anchor="middle" fill="var(--muted)">MONITOR</text><text y="59" font-size="10" text-anchor="middle" fill="var(--muted)">IMPROVE</text></g>
+    <rect x="48" y="286" width="904" height="42" fill="var(--panel)"/><text x="500" y="312" font-size="11" letter-spacing="2" text-anchor="middle" fill="var(--ink)">CODE + DEPLOYMENT + MONITORING + DOCUMENTATION + SUPPORT = ONE OUTCOME</text>
+  </g>
+</svg>

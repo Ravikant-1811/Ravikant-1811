@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1000 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ravikant Upadhyay - software developer and systems operator</title>
+  <desc id="desc">Editorial portfolio header with location, focus, and availability.</desc>
+  <style>
+    :root{--ink:#111820;--muted:#5f6872;--rule:#111820;--accent:#ff4d2e;--signal:#4d7c0f;--soft:#e9e4da}
+    @media(prefers-color-scheme:dark){:root{--ink:#f4f1e9;--muted:#9ba4af;--rule:#68717c;--accent:#ff694d;--signal:#b6ff36;--soft:#27303a}}
+    .mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,monospace}.serif{font-family:Georgia,"Times New Roman",serif}
+    .draw{stroke-dasharray:1000;stroke-dashoffset:0}.rise{opacity:1}.fade{opacity:1}
+    .a1{animation-delay:.1s}.a2{animation-delay:.3s}.a3{animation-delay:.55s}.a4{animation-delay:.8s}.a5{animation-delay:1.05s}
+    @keyframes draw{to{stroke-dashoffset:0}}@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}@keyframes fade{to{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.draw,.rise,.fade{animation:none;opacity:1;stroke-dashoffset:0}}
+  </style>
+  <g class="mono">
+    <text x="48" y="39" font-size="11" letter-spacing="3.2" fill="var(--muted)">PORTFOLIO / SYSTEM INDEX 001</text>
+    <text x="952" y="39" font-size="11" letter-spacing="2.2" text-anchor="end" fill="var(--muted)">VADODARA, IN / 22.30 N / 73.20 E</text>
+    <line class="draw a1" x1="48" y1="55" x2="952" y2="55" stroke="var(--rule)"/>
+    <g class="rise a2">
+      <text class="serif" x="46" y="170" font-size="76" font-weight="700" letter-spacing="-2.5" fill="var(--ink)">Ravikant Upadhyay</text>
+      <rect x="48" y="190" width="86" height="6" fill="var(--accent)"/><rect x="140" y="190" width="36" height="6" fill="var(--signal)"/>
+    </g>
+    <text class="fade a3" x="48" y="235" font-size="19" fill="var(--ink)">Software Developer &amp; Systems Operator - Vadodara, India.</text>
+    <g class="fade a4">
+      <text x="48" y="292" font-size="12" letter-spacing="1.2" fill="var(--muted)">FOCUS /</text>
+      <text x="125" y="292" font-size="12" letter-spacing="1.2" fill="var(--ink)">BUSINESS SYSTEMS  ·  WORDPRESS PLATFORMS  ·  AUTOMATION  ·  PRODUCTION OPERATIONS</text>
+      <text x="48" y="320" font-size="12" letter-spacing="1.2" fill="var(--muted)">STATUS /</text>
+      <text x="125" y="320" font-size="12" letter-spacing="1.2" fill="var(--signal)">AVAILABLE FOR SELECTED BUILDS AND COLLABORATIONS</text>
+    </g>
+    <line class="draw a5" x1="48" y1="365" x2="952" y2="365" stroke="var(--rule)"/>
+    <g class="fade a5" font-size="11" letter-spacing="2.1" fill="var(--muted)">
+      <text x="48" y="399">BUILD THE WORKFLOW</text><text x="267" y="399" fill="var(--accent)">/</text>
+      <text x="299" y="399">SHIP THE SYSTEM</text><text x="500" y="399" fill="var(--accent)">/</text>
+      <text x="532" y="399">OPERATE THE OUTCOME</text><text x="952" y="399" text-anchor="end">RK / 2026</text>
+    </g>
+  </g>
+</svg>

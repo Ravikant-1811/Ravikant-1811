@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1000 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">02 - selected systems</title><desc id="desc">Six selected software projects and their operational outcomes.</desc>
+  <style>
+    :root{--ink:#111820;--muted:#65707b;--rule:#c8c2b8;--accent:#ff4d2e;--signal:#4d7c0f;--panel:#f3efe7}
+    @media(prefers-color-scheme:dark){:root{--ink:#f4f1e9;--muted:#9ba4af;--rule:#414a55;--accent:#ff694d;--signal:#b6ff36;--panel:#111820}}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace}.serif{font-family:Georgia,"Times New Roman",serif}.card{opacity:1}.c2{animation-delay:.1s}.c3{animation-delay:.2s}.c4{animation-delay:.3s}.c5{animation-delay:.4s}.c6{animation-delay:.5s}
+    @keyframes show{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.card{animation:none;opacity:1}}
+  </style>
+  <g class="mono">
+    <text x="48" y="58" font-size="58" font-weight="700" fill="var(--accent)">02</text><text x="155" y="47" font-size="13" letter-spacing="4" fill="var(--ink)">SELECTED SYSTEMS</text>
+    <line x1="155" y1="61" x2="952" y2="61" stroke="var(--rule)"/><text x="952" y="47" font-size="10" letter-spacing="2" text-anchor="end" fill="var(--muted)">~/02-systems</text>
+    <g class="card" transform="translate(48 101)">
+      <rect width="438" height="145" fill="var(--panel)" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">01 / OPERATIONS</text>
+      <text class="serif" x="18" y="62" font-size="24" font-weight="700" fill="var(--ink)">Taskflow</text><text x="18" y="91" font-size="12" fill="var(--muted)">Multi-tenant task and workspace operations for teams.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">PHP  /  SQLITE  /  JAVASCRIPT</text>
+    </g>
+    <g class="card c2" transform="translate(514 101)">
+      <rect width="438" height="145" fill="none" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">02 / COMMUNICATION</text>
+      <text class="serif" x="18" y="62" font-size="22" font-weight="700" fill="var(--ink)">Multi-User Platform</text><text x="18" y="91" font-size="12" fill="var(--muted)">Secure role-based dashboards and live communication.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">PHP  /  MYSQL  /  AJAX</text>
+    </g>
+    <g class="card c3" transform="translate(48 266)">
+      <rect width="438" height="145" fill="none" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">03 / AUTOMATION</text>
+      <text class="serif" x="18" y="62" font-size="22" font-weight="700" fill="var(--ink)">WhatsApp Campaign Console</text><text x="18" y="91" font-size="12" fill="var(--muted)">Queues, templates, scheduling, and delivery logs.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">PHP  /  MESSAGING  /  AUTOMATION</text>
+    </g>
+    <g class="card c4" transform="translate(514 266)">
+      <rect width="438" height="145" fill="var(--panel)" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">04 / AI LEARNING</text>
+      <text class="serif" x="18" y="62" font-size="24" font-weight="700" fill="var(--ink)">Vakify AI 2.0</text><text x="18" y="91" font-size="12" fill="var(--muted)">Coding labs, quizzes, progress loops, AI assistance.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">REACT  /  TYPESCRIPT  /  FLASK  /  AI</text>
+    </g>
+    <g class="card c5" transform="translate(48 431)">
+      <rect width="438" height="145" fill="var(--panel)" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">05 / IDENTITY</text>
+      <text class="serif" x="18" y="62" font-size="23" font-weight="700" fill="var(--ink)">Digital Card Generator</text><text x="18" y="91" font-size="12" fill="var(--muted)">Managed professional cards built to share quickly.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">PHP  /  SQLITE</text>
+    </g>
+    <g class="card c6" transform="translate(514 431)">
+      <rect width="438" height="145" fill="none" stroke="var(--rule)"/><text x="18" y="28" font-size="10" letter-spacing="2" fill="var(--signal)">06 / DISCOVERY</text>
+      <text class="serif" x="18" y="62" font-size="24" font-weight="700" fill="var(--ink)">Find Business</text><text x="18" y="91" font-size="12" fill="var(--muted)">Business discovery, listings, and lead collection.</text>
+      <text x="18" y="122" font-size="10" letter-spacing="1.5" fill="var(--ink)">PHP  /  MYSQL</text>
+    </g>
+    <text x="48" y="620" font-size="10" letter-spacing="2" fill="var(--muted)">SELECTED FROM 32 PUBLIC REPOSITORIES</text><text x="952" y="620" font-size="10" letter-spacing="2" text-anchor="end" fill="var(--accent)">VIEW THE FULL INDEX ON GITHUB  →</text>
+  </g>
+</svg>

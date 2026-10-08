@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">05 - technical stack</title><desc id="desc">Languages, platforms, automation, and operations tools used by Ravikant.</desc>
+  <style>
+    :root{--ink:#111820;--muted:#65707b;--rule:#c8c2b8;--accent:#ff4d2e;--signal:#4d7c0f;--panel:#f3efe7}
+    @media(prefers-color-scheme:dark){:root{--ink:#f4f1e9;--muted:#9ba4af;--rule:#414a55;--accent:#ff694d;--signal:#b6ff36;--panel:#111820}}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace}.serif{font-family:Georgia,"Times New Roman",serif}.bar{transform:none}.b2{animation-delay:.15s}.b3{animation-delay:.3s}.b4{animation-delay:.45s}@keyframes grow{to{transform:scaleX(1)}}@media(prefers-reduced-motion:reduce){.bar{animation:none;transform:none}}
+  </style>
+  <g class="mono">
+    <text x="48" y="58" font-size="58" font-weight="700" fill="var(--accent)">05</text><text x="155" y="47" font-size="13" letter-spacing="4" fill="var(--ink)">TECHNICAL STACK</text>
+    <line x1="155" y1="61" x2="952" y2="61" stroke="var(--rule)"/><text x="952" y="47" font-size="10" letter-spacing="2" text-anchor="end" fill="var(--muted)">~/05-stack</text>
+    <g transform="translate(48 105)"><text class="serif" y="25" font-size="22" font-weight="700" fill="var(--ink)">Languages + data</text><text y="57" font-size="12" fill="var(--muted)">PHP / JavaScript / TypeScript / Python</text><text y="82" font-size="12" fill="var(--muted)">MySQL / SQLite / PostgreSQL</text><rect class="bar" y="105" width="362" height="5" fill="var(--accent)"/></g>
+    <g transform="translate(535 105)"><text class="serif" y="25" font-size="22" font-weight="700" fill="var(--ink)">Web platforms</text><text y="57" font-size="12" fill="var(--muted)">React / Next.js / Node.js / REST APIs</text><text y="82" font-size="12" fill="var(--muted)">WordPress / WooCommerce / Elementor / ACF</text><rect class="bar b2" y="105" width="310" height="5" fill="var(--signal)"/></g>
+    <line x1="48" y1="248" x2="952" y2="248" stroke="var(--rule)"/>
+    <g transform="translate(48 278)"><text class="serif" y="25" font-size="22" font-weight="700" fill="var(--ink)">Automation</text><text y="57" font-size="12" fill="var(--muted)">Messaging / Content pipelines / Webhooks</text><text y="82" font-size="12" fill="var(--muted)">Scheduled work / AI integrations / Monitoring</text><rect class="bar b3" y="105" width="332" height="5" fill="var(--signal)"/></g>
+    <g transform="translate(535 278)"><text class="serif" y="25" font-size="22" font-weight="700" fill="var(--ink)">Operations</text><text y="57" font-size="12" fill="var(--muted)">Linux / Docker / PM2 / Cloudflare / Vercel</text><text y="82" font-size="12" fill="var(--muted)">GitHub Actions / Diagnostics / Recovery</text><rect class="bar b4" y="105" width="374" height="5" fill="var(--accent)"/></g>
+  </g>
+</svg>
