@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Ravikant Upadhyay developer command center</title>
+  <desc id="desc">Dark terminal-inspired profile banner for a software developer and systems operator.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a0f"/>
+      <stop offset="0.58" stop-color="#0c1119"/>
+      <stop offset="1" stop-color="#07120e"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111823"/>
+      <stop offset="1" stop-color="#0a0f16"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b6ff36"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#263142" stroke-width="1" opacity="0.28"/>
+    </pattern>
+    <clipPath id="portraitClip">
+      <rect x="827" y="102" width="310" height="342" rx="18"/>
+    </clipPath>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="620" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="618" rx="27" fill="none" stroke="#263142" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="54" cy="43" r="6" fill="#ff5f57"/>
+    <circle cx="75" cy="43" r="6" fill="#febc2e"/>
+    <circle cx="96" cy="43" r="6" fill="#28c840"/>
+    <text x="122" y="48" fill="#7f8c9f" font-size="14">~/ravikant/profile</text>
+    <text x="1118" y="48" fill="#b6ff36" font-size="12" text-anchor="end">SYSTEM ONLINE</text>
+  </g>
+  <line x1="28" y1="69" x2="1172" y2="69" stroke="#263142"/>
+
+  <g transform="translate(55 112)">
+    <text font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" fill="#b6ff36">$ whoami</text>
+    <text y="58" font-family="Georgia, 'Times New Roman', serif" font-size="55" font-weight="700" fill="#f7f9fc">Ravikant</text>
+    <text y="111" font-family="Georgia, 'Times New Roman', serif" font-size="55" font-weight="700" fill="#f7f9fc">Upadhyay</text>
+    <text y="151" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" fill="#95a2b4">SOFTWARE DEVELOPER  /  SYSTEMS OPERATOR</text>
+
+    <rect y="188" width="690" height="84" rx="12" fill="#0a0e14" stroke="#263142"/>
+    <text x="20" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#657185">01</text>
+    <text x="58" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#dbe3ed">I turn operational friction into software teams can run.</text>
+    <text x="20" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#657185">02</text>
+    <text x="58" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#dbe3ed">Build  +  deploy  +  monitor  +  improve.</text>
+
+    <text y="315" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#b6ff36">$ stack --active</text>
+    <g transform="translate(0 337)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="700">
+      <rect width="83" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="18" y="22" fill="#d7f7df">PHP</text>
+      <rect x="94" width="118" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="111" y="22" fill="#d7f7df">WordPress</text>
+      <rect x="223" width="103" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="241" y="22" fill="#d7f7df">React</text>
+      <rect x="337" width="113" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="354" y="22" fill="#d7f7df">Python</text>
+      <rect x="461" width="102" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="478" y="22" fill="#d7f7df">Docker</text>
+      <rect x="574" width="116" height="34" rx="7" fill="#15211a" stroke="#355a3d"/><text x="591" y="22" fill="#d7f7df">Cloudflare</text>
+    </g>
+  </g>
+
+  <rect x="797" y="88" width="360" height="376" rx="22" fill="url(#panel)" stroke="#2d3746"/>
+  <rect x="812" y="103" width="330" height="346" rx="17" fill="#080b10"/>
+  <circle cx="982" cy="276" r="146" fill="#122019" opacity="0.5"/>
+  <circle cx="982" cy="276" r="116" fill="none" stroke="#b6ff36" stroke-width="1" opacity="0.25"/>
+  <image x="827" y="102" width="310" height="342" preserveAspectRatio="xMidYMid meet" xlink:href="profile-portrait.png" clip-path="url(#portraitClip)"/>
+  <path d="M826 426 H1131" stroke="url(#glow)" stroke-width="2" filter="url(#softGlow)"/>
+  <text x="827" y="487" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#687588">LOCATION</text>
+  <text x="1137" y="487" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#f2f5f8" text-anchor="end">VADODARA, INDIA</text>
+
+  <g transform="translate(55 530)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect width="230" height="58" rx="10" fill="#0d131c" stroke="#263142"/>
+    <circle cx="24" cy="29" r="5" fill="#b6ff36"/>
+    <text x="42" y="25" font-size="11" fill="#657185">CURRENT MODE</text><text x="42" y="43" font-size="13" fill="#e8edf3">SHIPPING SYSTEMS</text>
+    <rect x="244" width="230" height="58" rx="10" fill="#0d131c" stroke="#263142"/>
+    <text x="265" y="25" font-size="11" fill="#657185">SPECIALITY</text><text x="265" y="43" font-size="13" fill="#e8edf3">BUSINESS AUTOMATION</text>
+    <rect x="488" width="230" height="58" rx="10" fill="#0d131c" stroke="#263142"/>
+    <text x="509" y="25" font-size="11" fill="#657185">DELIVERY</text><text x="509" y="43" font-size="13" fill="#e8edf3">END TO END</text>
+    <rect x="732" width="350" height="58" rx="10" fill="#0d131c" stroke="#263142"/>
+    <text x="753" y="25" font-size="11" fill="#657185">STATUS</text><text x="753" y="43" font-size="13" fill="#b6ff36">AVAILABLE FOR SELECTED BUILDS</text>
+  </g>
+</svg>
